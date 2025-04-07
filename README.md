@@ -1,7 +1,8 @@
 # Data-Science
 
 1. Clone the Repository: Begin by cloning the repository to your local machine using Git:
-`git clone https://github.com/DDuongQuangMinh/Data-Science.git`
+
+    `git clone https://github.com/DDuongQuangMinh/Data-Science.git`
 
 2. Navigate to the Project Directory: Move into the project's root directory and activate virtual environment:
 - On macOS/Linux:
